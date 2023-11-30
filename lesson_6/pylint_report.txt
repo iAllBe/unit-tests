@@ -1,0 +1,6 @@
+************* Module average_calculator
+average_calculator.py:43:8: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 9.52/10 (previous run: 9.41/10, +0.11)
+
